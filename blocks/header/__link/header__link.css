@@ -2,3 +2,8 @@
   color: white;
   text-decoration: none;
 }
+
+.header__link:hover {
+  opacity: 80%;
+  transition: color 1s linear 0.5s;
+}
