@@ -12,14 +12,13 @@
 
 @media screen and (max-width: 1023px) {
   .lead__image {
-    max-height: 480px;
-    max-width: 768px;
+    min-height: 480px;
+    width: 100%;
   }
 }
 
 @media screen and (max-width: 767px) {
   .lead__image {
-    max-height: 200px;
-    max-width: 320px;
+    min-height: 200px;
   }
 }
