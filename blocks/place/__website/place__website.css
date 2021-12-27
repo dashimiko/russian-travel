@@ -1,1 +1,3 @@
-.place__website {}
+.place__website {
+  align-self: flex-end;
+}
