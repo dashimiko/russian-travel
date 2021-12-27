@@ -1,4 +1,4 @@
-# russian-travel
+# russian-travel https://dashimiko.github.io/russian-travel/index.html
 
 russian-travel — это учебный проект Яндекс.Практикума. Одностраничный сайт рассказывает о маршрутах путешествия по России. Проект адаптивен, проверен на разрешениях 1280, 1024, 768, 320. Используемый стек: html и CSS.
 
