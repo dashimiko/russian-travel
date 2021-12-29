@@ -5,6 +5,7 @@
   line-height: 26.08px;
   font-weight: 400;
   max-width: 690px;
+  white-space: normal;
 }
 
 @media screen and (max-width: 1023px) {
@@ -16,5 +17,6 @@
 @media screen and (max-width: 767px) {
   .intro__text {
     margin-bottom: 34px;
+    white-space: pre-line;
   }
 }
