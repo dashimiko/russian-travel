@@ -2,8 +2,7 @@
   padding: 56px 0 92px;
   margin: 0 auto;
   max-width: 984px;
-  max-height: 1005px;
-  display:flex;
+  display: flex;
   flex-direction: column;
   align-items: center;
 }

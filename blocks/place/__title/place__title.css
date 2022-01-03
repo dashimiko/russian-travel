@@ -3,7 +3,6 @@
   font-weight: 900;
   line-height: 76px;
   text-align: left;
-  white-space: pre-line;
   margin: 0;
   padding: 0;
 }
@@ -12,6 +11,7 @@
   .place__title {
     font-size: 42px;
     line-height: 46px;
+    max-width: 97%;
   }
 }
 
@@ -21,6 +21,5 @@
     line-height: 35px;
     margin-left: 16px;
     margin-right: 16px;
-    white-space: normal;
   }
 }

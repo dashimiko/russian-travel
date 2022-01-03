@@ -4,9 +4,10 @@
   font-size: 30px;
   line-height: 36px;
   font-weight: 400;
-  white-space: pre-line;
   text-align: center;
   color: white;
+  max-width: 640px;
+  text-align: center;
 }
 
 @media screen and (max-width: 1279px) {
@@ -19,8 +20,7 @@
   .lead__subtitle {
     font-size: 16px;
     line-height: 20px;
-    margin-bottom:40px;
+    margin-bottom: 40px;
     max-width: 288px;
-    max-height: 40px;
   }
 }
