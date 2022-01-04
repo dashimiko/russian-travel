@@ -27,12 +27,3 @@
     padding: 0;
   }
 }
-
-@media screen and (max-width: 1023px) {
-  .place__paragraph:last-child {
-    margin-top: 25px;
-  }
-  .place__paragraph:first-child {
-    margin-top: 0;
-  }
-}
